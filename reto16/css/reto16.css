@@ -1,0 +1,17 @@
+table{
+    text-align: center;
+    margin: auto;
+    background: url(../img/pinguinos.jpeg) no-repeat center center;
+}
+
+.linea1{
+    background-color: green;
+}
+
+.linea2{
+    background-color: orange;
+}
+
+.linea3{
+    background-color: yellow;
+}

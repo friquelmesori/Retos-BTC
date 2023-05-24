@@ -1,0 +1,26 @@
+.linea1{
+    background-color: green;
+    text-align: center;
+    color: aquamarine;
+}
+
+.linea2{
+    background-color: aquamarine;
+    
+}
+
+/* [rowspan]{
+    text-align: center;
+} */
+
+.linea3{
+    background-color: aquamarine;
+}
+
+.linea4{
+    background-color: aqua;
+}
+
+.text-center{
+    text-align: center;
+}

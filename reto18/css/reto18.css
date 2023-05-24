@@ -1,0 +1,31 @@
+
+
+.anterior{
+    background-image: url(../img/1.png);
+    background-image: url(../img/2.png);
+    background-image: url(../img/3.png);
+    height: 50%;
+    width: 50%;
+    background-repeat: no-repeat;
+    border: 1px solid blueviolet;
+}
+
+.prueba{
+    background-image: url(../img/1.png);
+    background-image: url(../img/2.png);
+    background-image: url(../img/3.png);
+    height: 50%;
+    width: 50%;
+    background-repeat: no-repeat;
+    border: 1px solid red;
+}
+
+.posterior{
+    background-image: url(../img/1.png);
+    background-image: url(../img/2.png);
+    background-image: url(../img/3.png);
+    height: 50%;
+    width: 50%;
+    background-repeat: no-repeat;
+    border: 1px solid blue;
+}

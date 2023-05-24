@@ -1,0 +1,31 @@
+.contenedor{
+    background-color: gray;
+}
+
+table{
+    margin: auto;
+    height: 50%;
+    width: 50%;
+    border:5px solid white;
+}
+
+.tarjeta{
+    background-color: pink;
+    border: white;
+    text-align: left;
+}
+
+.descripcion{
+    background-color:rgb(255, 124, 148) ;
+    text-align: right;
+}
+
+.boton{
+    background-color: rgb(255, 27, 65);
+    text-align: center;
+
+}
+
+input{
+    border: black 1px dotted;
+}

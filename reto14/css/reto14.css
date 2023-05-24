@@ -1,0 +1,34 @@
+table{
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    
+}
+
+.linea2{
+    background-color: darkgoldenrod;
+}
+
+img{
+    height: 50%;
+    width: 50%;    
+}
+
+.contenedor-imagen{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+.imagen{
+    background-image: url(../img/pingui.jpg);
+    height: 100vh;
+    width: 40vw;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    /* alinado de la tabla con respecto a la imagen */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
